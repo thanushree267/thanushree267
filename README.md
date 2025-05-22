@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Thanushree!
 
-🎓 I'm a Computer Science Engineering student with a CGPA of 9.12, aspiring to become a Machine Learning Engineer.  
+🎓 I'm a Computer Science Engineering student with a CGPA of 9.12, aspiring to become a skilled Software Engineer.  
 💻 Passionate about programming, AI/ML, and solving real-world problems through innovative technology.  
 🚀 I love building meaningful projects, exploring new algorithms, and working on impactful research.
 
