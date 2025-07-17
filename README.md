@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Thanushree!
 
-🎓 I'm a Computer Science Engineering student with a CGPA of 9.12, aspiring to become a skilled Software Engineer.  
+🎓 I'm a Computer Science Engineering student with a CGPA of 9.18, aspiring to become a skilled Software Engineer.  
 💻 Passionate about programming, AI/ML, and solving real-world problems through innovative technology.  
 🚀 I love building meaningful projects, exploring new algorithms, and working on impactful research.
 
@@ -20,7 +20,7 @@
 ## 🧠 Projects I'm Proud Of
 
 - 📈 **Stock Market Price Prediction** – Built using R to model and forecast stock trends using historical data.
-- 🎥 **Teacher Facial Expression Detection** – Ongoing project using a raw dataset collected from scratch to analyze emotional cues in educational settings.
+- 🎥 **Teacher Facial Expression Detection** – Real time project using a raw dataset collected from scratch to analyze emotional cues in educational settings.
 - 🔥 **Smart Home & Security System** – IoT + AI solution for gas leaks, vehicle detection, and mall security.
 - 🎨 **Neural Style GAN** – Merged artistic styles from two artists to generate novel images.
   
