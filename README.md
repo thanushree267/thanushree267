@@ -10,7 +10,7 @@
 
 - **Languages**: Python, R, C, Java, JavaScript  
 - **Web Development**: HTML, CSS, Node.js  
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, OpenCV, CNN, RNN
 - **Tools & Platforms**: Git, GitHub, VS Code, Jupyter, RStudio  
 - **Databases**: SQL, NoSQL  
 - **Other Interests**: Automation, GANs, Sorting Algorithms
